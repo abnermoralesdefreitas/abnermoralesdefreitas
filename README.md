@@ -21,8 +21,8 @@ I'm currently focused on expanding my knowledge across multiple programming lang
 
 ### 📊 GitHub Stats
 
-![Abner's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnermoralesddefreitas&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnermoralesddefreitas&layout=compact&theme=tokyonight)
+![Abner's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnermoralesdefreitas&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnermoralesdefreitas&layout=compact&theme=tokyonight)
 
 ---
 
